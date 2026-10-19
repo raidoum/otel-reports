@@ -1,0 +1,4 @@
+interface:
+  display_name: "OTel Report"
+  short_description: "Collect Codex telemetry and report work breakdowns"
+  default_prompt: "Use $otel-report to turn the completed loop's telemetry into an HTML report of major stages, detailed breakdowns, findings, and suggested changes to task instructions."

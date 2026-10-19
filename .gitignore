@@ -1,0 +1,19 @@
+# Python development files
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Local settings and captured telemetry
+.env
+.env.*
+!.env.example
+.telemetry/
+*.jsonl
+*.log
+
+# Report output belongs to the project being analyzed
+/reports/
+/data/
+
+.DS_Store
